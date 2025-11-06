@@ -1,0 +1,56 @@
+Changed database context to 'Northwind'.
+QuocGia         SoLuongKhachHang
+--------------- ----------------
+USA                           13
+France                        11
+Germany                       11
+Brazil                         9
+UK                             7
+Spain                          5
+Mexico                         5
+Venezuela                      4
+Italy                          3
+Canada                         3
+Argentina                      3
+Austria                        2
+Belgium                        2
+Denmark                        2
+Finland                        2
+Portugal                       2
+Sweden                         2
+Switzerland                    2
+Norway                         1
+Poland                         1
+Ireland                        1
+
+(21 rows affected)
+Changed database context to 'Northwind'.
+QuocGia         SoLuongKhachHang
+--------------- ----------------
+USA                           13
+France                        11
+Germany                       11
+Brazil                         9
+UK                             7
+Spain                          5
+Mexico                         5
+Venezuela                      4
+Italy                          3
+Canada                         3
+Argentina                      3
+Austria                        2
+Belgium                        2
+Denmark                        2
+Finland                        2
+Portugal                       2
+Sweden                         2
+Switzerland                    2
+Norway                         1
+Poland                         1
+Ireland                        1
+
+(21 rows affected)
+Msg 207, Level 16, State 1, Server 847, Line 1
+Invalid column name 'Country'.
+Msg 207, Level 16, State 1, Server 847, Line 1
+Invalid column name 'CustomerID'.
